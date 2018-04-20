@@ -1,1 +1,5 @@
+server:
+  port: 8882
+  servlet:
+      context-path: /app2
 message: from github repo app2-config
